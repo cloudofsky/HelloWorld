@@ -1,7 +1,5 @@
 print("Hello World")
 print("Hello GJssm")
 print("Hotfix text")
-print("Hotfix textaaaa")
-print("Hotfix textaaaa")
-print("Hotfix textaaaa")
+print("Hotfix textbbb")
 input()
